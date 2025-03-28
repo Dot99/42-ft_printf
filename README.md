@@ -5,7 +5,6 @@
 	<h1>Description</h1>
 	<p>The objective of this project is to write a library that contains ft_printf(), a
         function that will mimic the original printf()</p>
-	<h1><a href="subject.pdf">Subject</a><h2>
 </div>
 
 <div align="center">
